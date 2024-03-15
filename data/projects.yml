@@ -1,34 +1,27 @@
-- name: Longest Word Game
-  description: Decent description of the app
+- name: CIET
+  description: This was the final project that I work on with my team and presented at the Le Wagon Demo Day. It alows the user to scan a Japanese ingredients label to check if the food fits the users dietary restrictions.
   image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+  url: https://can-i-eat-this-390518c2e681.herokuapp.com/
+  github: https://www.github.com/leamuno/ciet
   online: true
 
-- name: Movie Watchlist
-  description: Decent description of the app
+- name: Power Up
+  description: Heroes can rent out their powers to other heroes or borrow powers from fellow heroes before a tough fight.
   image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+  url: https://power-up-4a2dcd45258f.herokuapp.com/
+  github: https://www.github.com/leamuno/power-up
   online: true
 
-- name: Airbnb
-  description: Decent description of the app
+- name: ReactPokedex
+  description: I wanted to showcase my use of react and put my newly built API to work. I made a simple Pokedex app that shares some simple info about the first 150 pokemon.
   image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+  url: https://leamuno.github.io/react-pokedex/
+  github: https://github.com/leamuno/react-pokedex
   online: true
 
-- name: Final project
-  description: Decent description of the app
+- name: RailsPokeApi
+  description: I built an API using Ruby on Rails and hosted it on Heroku. I really like Pokemon, so I thought building this API would be a fun way to try out new technologies on static sites.
   image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+  url: https://poke-api-9fa88e523c2a.herokuapp.com/api/v1/pokemons
+  github: https://github.com/leamuno/rails-poke-api
   online: true
-
-- name: Yelp
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: false
