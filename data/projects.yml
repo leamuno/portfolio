@@ -1,7 +1,7 @@
 - name: CIET
   description: This was the final project that I work on with my team and presented at the Le Wagon Demo Day. It alows the user to scan a Japanese ingredients label to check if the food fits the users dietary restrictions.
   image: projects/placeholder.png
-  url: https://can-i-eat-this-390518c2e681.herokuapp.com/
+  url: https://ciet-mvp-2704dae8ded8.herokuapp.com/
   github: https://www.github.com/leamuno/ciet
   online: true
 
