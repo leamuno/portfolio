@@ -1,9 +1,9 @@
 - name: CIET
   description: This was the final project that I work on with my team and presented at the Le Wagon Demo Day. It alows the user to scan a Japanese ingredients label to check if the food fits the users dietary restrictions.
   image: projects/placeholder.png
-  url: https://ciet-mvp-2704dae8ded8.herokuapp.com/
+  url:
   github: https://www.github.com/leamuno/ciet
-  online: true
+  online: false
 
 - name: Power Up
   description: Heroes can rent out their powers to other heroes or borrow powers from fellow heroes before a tough fight.
