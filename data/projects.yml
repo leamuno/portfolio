@@ -1,20 +1,20 @@
 - name: CIET
   description: This was the final project that I work on with my team and presented at the Le Wagon Demo Day. It alows the user to scan a Japanese ingredients label to check if the food fits the users dietary restrictions.
-  image: projects/placeholder.png
-  url:
+  image: projects/ciet-preview.png
+  url: https://www.ciet.lol/
   github: https://www.github.com/leamuno/ciet
-  online: false
+  online: true
 
 - name: Power Up
   description: Heroes can rent out their powers to other heroes or borrow powers from fellow heroes before a tough fight.
-  image: projects/placeholder.png
+  image: projects/power-up-preview.png
   url: https://power-up-4a2dcd45258f.herokuapp.com/
   github: https://www.github.com/leamuno/power-up
   online: true
 
 - name: ReactPokedex
   description: I wanted to showcase my use of react and put my newly built API to work. I made a simple Pokedex app that shares some simple info about the first 150 pokemon.
-  image: projects/placeholder.png
+  image: projects/pokedex-preview.png
   url: https://leamuno.github.io/react-pokedex/
   github: https://github.com/leamuno/react-pokedex
   online: true
