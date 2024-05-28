@@ -21,7 +21,7 @@
 
 - name: RailsPokeApi
   description: I built an API using Ruby on Rails and hosted it on Heroku. I really like Pokemon, so I thought building this API would be a fun way to try out new technologies on static sites.
-  image: projects/placeholder.png
+  image: projects/pokeball.jpeg
   url: https://poke-api-9fa88e523c2a.herokuapp.com/api/v1/pokemons
   github: https://github.com/leamuno/rails-poke-api
   online: true
