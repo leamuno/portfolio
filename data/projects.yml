@@ -19,9 +19,15 @@
   github: https://github.com/leamuno/react-pokedex
   online: true
 
-- name: Serverless-PokeApi
-  description: I built an API using AWS Lambda, AWS API Gateway, and DynamoDB. I really like Pokemon, so I thought building this API would be a fun way to try out new technologies on static sites.
+- name: RailsPokeAPI
+  description: I built an API using Ruby on Rails and hosted it on Heroku. I really like Pokemon, so I thought building this API would be a fun way to try out new technologies on static sites.
   image: projects/pokeball.jpeg
+  url: https://poke-api-97bb8825da70.herokuapp.com/api/v1/pokemons
+  github: https://github.com/leamuno/rails-poke-api
+  online: true
+
+  - name: Serverless-PokeApi
+  description: I rebuilt the RailsPokeAPI using AWS Lambda, AWS API Gateway, and DynamoDB. I'm really interested in serveless as a backend solution, so wanted to experiment a little bit.
   url: https://poke-api-97bb8825da70.herokuapp.com/api/v1/pokemons
   github: https://nf07ey28qa.execute-api.ap-northeast-1.amazonaws.com/prod/pokemons
   online: true
