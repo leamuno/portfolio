@@ -3,7 +3,7 @@
   image: projects/ciet-preview.png
   url: https://www.ciet.lol/
   github: https://www.github.com/leamuno/ciet
-  online: true
+  online: false
 
 - name: Power Up
   description: Heroes can rent out their powers to other heroes or borrow powers from fellow heroes before a tough fight.
